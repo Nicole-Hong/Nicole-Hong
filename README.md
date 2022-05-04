@@ -1,4 +1,4 @@
-### Hello! I am Nicole 👋
+### Hello the Wrold! 👋
 
 It is exciting to be in this ever growing digital space and introduce myself.
 
