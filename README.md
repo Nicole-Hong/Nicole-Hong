@@ -11,7 +11,7 @@ I would also love the opportunity to collaborate any projects, Hackathon or othe
 - 🔭 I’m currently working on my personal webpage and blog posts at Medium
 - 🌱 I’m currently learning Data Architecture and ML / AI, mainly NLP, Deep Learning and Transformer Models
 - 👯 I’m looking to collaborate on Projects and Hackathon
-- 🤔 I’m looking for help with MongoDB, PyTorch, PyCharm and PySpark
+- 🤔 I’m looking for help with MongoDB, PyTorch, PyCharm, PySpark and AutoML
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love classical music and play the violin at orchestras
 - :rocket: Hobbies: Coding, Hiking, Swimming and Dancing
