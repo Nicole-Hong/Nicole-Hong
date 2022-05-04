@@ -9,7 +9,7 @@ My passion is in learning and doing projects related to NLP, Time Series models,
 I would also love the opportunity to collaborate any projects, Hackathon or other challenges with you to develop the skills and applications together! 
 
 - 🔭 I’m currently working on my personal webpage and blog posts at Medium
-- 🌱 I’m currently learning Data Architecture and ML / AI, mainly NLP, Deep Learning and Transformer Models
+- 🌱 I’m currently learning Data Architecture / Virtual platforms and ML / AI, mainly NLP, Deep Learning and Transformer Models
 - 👯 I’m looking to collaborate on Projects and Hackathon
 - 🤔 I’m looking for help with MongoDB, PyTorch, PyCharm, PySpark and AutoML
 - 😄 Pronouns: She/Her
