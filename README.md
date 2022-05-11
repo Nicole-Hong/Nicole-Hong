@@ -1,4 +1,4 @@
-### Hello, World! 👋
+### Hello World! 👋
 
 It is exciting to be in this ever growing digital space and introduce myself.
 
