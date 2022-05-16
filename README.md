@@ -14,4 +14,4 @@ I would also love the opportunity to collaborate any projects, Hackathon or othe
 - 🤔 I’m looking for help with MongoDB, PyTorch, PyCharm, PySpark and AutoML
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love classical music and play the violin at orchestras
-- :rocket: Hobbies: Coding, Hiking, Swimming and Dancing
+- :rocket: Hobbies: Coding, Painting, Hiking, Swimming and Dancing
