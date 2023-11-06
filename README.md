@@ -9,7 +9,7 @@ I would also love the opportunity to collaborate any projects, Hackathon or othe
 - 🔭 I’m currently working on mastering Software Engineering & App development
 - 🌱 I’m currently learning Data Architecture / Cloud Computing, LLM and ChatGPT application
 - 👯 I’m looking to collaborate on Projects and Hackathon
-- 🤔 I’m looking for help with MongoDB, PyTorch, PyCharm, PySpark and AutoML
+- 🤔 I’m looking for help with my README more visually appealing...
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love classical music and play the violin at orchestras
 - :rocket: Hobbies: Coding, Painting, Hiking, Swimming and Dancing
