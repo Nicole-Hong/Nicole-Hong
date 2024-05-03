@@ -2,7 +2,7 @@
 
 It is exciting to be in this ever growing digital space and introduce myself.
 
-I am data engineer / data science enthusiast. My passion is in learning and doing projects related to LLM, NLP, Time Series models, Computer Vision, Deep Learning/Reinforcement Learning and any topics related to artificial intelligence. I am doing data analysis using public API, experiments on deep learning and transformer models, and generative AI Art, which is my ongoing project.
+I work as data scientist. My passion is in learning and doing projects related to LLM, NLP, Time Series models, Computer Vision, Deep Learning/Reinforcement Learning and any topics related to artificial intelligence. I am working on ML and LLM projects as well as generative AI Art, which is my ongoing project.
 
 I would also love the opportunity to collaborate any projects, Hackathon or other challenges with you to develop the skills and applications together! 
 
